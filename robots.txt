@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eefepeeyi.banzalik.ru/sitemap.xml
